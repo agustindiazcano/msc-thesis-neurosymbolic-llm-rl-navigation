@@ -1,0 +1,24 @@
+{
+    "problem": "VNN_Universal_Topology",
+    "optimal_geometry": {
+        "euclid_weight": 0.4216851911199523,
+        "chebyshev_weight": 0.022987660544569424,
+        "manhattan_weight": 0.10061798446699406,
+        "conic_weight": 0.45470916386848437
+    },
+    "normalization_params": {
+        "mean": [
+            0.8366763801054427,
+            0.8212309675037087,
+            12.573922693592682,
+            -0.011158505693750275
+        ],
+        "scale": [
+            5.821341583310466,
+            6.507866036017962,
+            13.640785113987652,
+            1.2200023165199134
+        ]
+    },
+    "note": "Use these weights to configure the QPU Hamiltonian."
+}
